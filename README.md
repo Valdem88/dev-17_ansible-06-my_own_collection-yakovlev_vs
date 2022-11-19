@@ -174,7 +174,7 @@ if __name__ == '__main__':
 
 4. Проверьте module на исполняемость локально.
 
-- Добавила файл hello.json:
+- Добавил файл hello.json:
 ```bash
 root@server1:~/ansible# cat hello.json
 {
@@ -208,7 +208,7 @@ root@server1:~/ansible# cat hello.json
 
 {"changed": false, "original_message": "Hello, netology!\nChecking multiline text", "message": "File already exist", "invocation": {"module_args": {"path": "/tmp/test_01.txt", "content": "Hello, netology!\nChecking multiline text"}}}
 ```
-- Файл уже был создан
+- Файл уже существует
 - Создаем новый с этим же контентом и проверяем содержимое
 
 ```bash
