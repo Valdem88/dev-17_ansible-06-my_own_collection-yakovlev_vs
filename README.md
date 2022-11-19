@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "08.04 Создание собственных modules" - dev-17_ansible-06-my_own_collection-yakovlev_vs
+# Домашнее задание к занятию "08.06 Создание собственных modules" - dev-17_ansible-06-my_own_collection-yakovlev_vs
 
 ## Подготовка к выполнению
 1. Создайте пустой публичных репозиторий в любом своём проекте: `my_own_collection`
