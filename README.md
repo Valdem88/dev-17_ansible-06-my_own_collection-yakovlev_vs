@@ -170,7 +170,7 @@ if __name__ == '__main__':
 
 3. Заполните файл в соответствии с требованиями ansible так, чтобы он выполнял основную задачу: module должен создавать текстовый файл на удалённом хосте по пути, определённом в параметре `path`, с содержимым, определённым в параметре `content`.
 
-- Обновленный файл: [my_own_module.py](https://docs.ansible.com/ansible/latest/dev_guide/developing_modules_general.html#creating-a-module)
+- Обновленный файл: [my_own_module.py](https://github.com/Valdem88/dev-17_ansible-06-my_own_collection-yakovlev_vs/blob/main/ansible_venv/my_own_module.py)
 
 4. Проверьте module на исполняемость локально.
 
@@ -398,7 +398,7 @@ ubuntu-ansible             : ok=1    changed=0    unreachable=0    failed=0    s
 
 17. В ответ необходимо прислать ссылку на репозиторий с collection
 
-[my_collection](https://docs.ansible.com/ansible/latest/dev_guide/developing_modules_general.html#creating-a-module)
+[my_collection](https://github.com/Valdem88/dev-17_ansible-06-my_own_collection-yakovlev_vs/tree/main/my_own_namespace/yandex_cloud_elk)
 
 ## Необязательная часть
 
